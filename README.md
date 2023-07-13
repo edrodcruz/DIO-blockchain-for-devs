@@ -2,11 +2,11 @@
 
 # dio-blockchain-for-devs
 
-## PrÃ©-requsitos
+## Pré-requsitos
 
 ### Instalar o NodeJS com NPM:
 
-- https://nodejs.org/en/download/
+ https://nodejs.org/en/download/
 
 ### Instalar o VS Code: 
 
@@ -16,15 +16,15 @@
 
 - https://trufflesuite.com/ganache/
 
-### InstalaÃ§Ã£o do Metamask: 
+### Instalação do Metamask: 
 
 - https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
-## InstruÃ§Ãµes
+## Instruções
 
 ## O projeto
 
-### Clonar o repositÃ³rio e acessar o projeto:
+### Clonar o repositório e acessar o projeto:
 
 - git clone https://github.com/digitalinnovationone/dio-blockchain-for-devs.git
 
@@ -37,7 +37,7 @@
 ### Instalar o Framework Truffle: 
 
 - npm i -g truffle
-
+  
 ## ConfiguraÃ§Ãµes
  
  - Executar o Ganache
