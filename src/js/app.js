@@ -23,9 +23,9 @@ App = {
     return await App.initWeb3();
   },
 
-  //Iniciando a aplicaÃ§Ã£o com o Metamask
+  //Iniciando a aplicação com o Metamask
   initWeb3: async function() {
-    //verificar a instalaÃ§Ã£o do Metamask
+    //verificar a instalação do Metamask
     if (window.ethereum) {
       App.web3Provider = window.ethereum;
       try {

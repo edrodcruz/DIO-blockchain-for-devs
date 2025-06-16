@@ -2,13 +2,13 @@
 
 # dio-blockchain-for-devs
 
-## Pré-requsitos
+## Prï¿½-requsitos
 
 ### Instalar o NodeJS com NPM:
 
  https://nodejs.org/en/download/
 
-### Instalar o VS Code: 
+### Instalar o VS Code:   --- Instalar extenxao solidity - Ruan Blanco
 
 - https://code.visualstudio.com/download
 
@@ -16,15 +16,15 @@
 
 - https://trufflesuite.com/ganache/
 
-### Instalação do Metamask: 
+### Instalaï¿½ï¿½o do Metamask: 
 
 - https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 
-## Instruções
+## Instruï¿½ï¿½es
 
 ## O projeto
 
-### Clonar o repositório e acessar o projeto:
+### Clonar o repositï¿½rio e acessar o projeto:
 
 - git clone https://github.com/digitalinnovationone/dio-blockchain-for-devs.git
 
@@ -55,6 +55,7 @@
  - Selecionar a chave privada de um dos endereÃ§os (no sÃ­mbolo da chave) no Ganache
  
  - Importar conta no Metamask passando a chave privada
+ 
 
 ## Compilando o contrato
 
